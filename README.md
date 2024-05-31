@@ -76,8 +76,6 @@ To use the cow disease detection system, follow these steps:
 
 The model achieves high accuracy in detecting various cow diseases. Below are some example detections:
 
-![Example Detection 1](examples/detection1.jpg)
-![Example Detection 2](examples/detection2.jpg)
 
 ## Contributing
 
