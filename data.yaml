@@ -1,0 +1,6 @@
+train: C:\Users\arul\Downloads\Compressed\cow_disease\train\images
+val: C:\Users\arul\Downloads\Compressed\cow_disease\valid\images
+test: C:\Users\arul\Downloads\Compressed\cow_disease\test\images
+
+nc: 1
+names: ['lumpy skin diesease']
